@@ -24,6 +24,7 @@
 		E417E8192BFF9BC900DBACDE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E417E81C2BFF9BC900DBACDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E417E81E2BFF9BC900DBACDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E417E8242BFF9C2600DBACDE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		E417E8042BFF9BC800DBACDE = {
 			isa = PBXGroup;
 			children = (
+				E417E8242BFF9C2600DBACDE /* README.md */,
 				E417E80F2BFF9BC800DBACDE /* StoryboardTableApp */,
 				E417E80E2BFF9BC800DBACDE /* Products */,
 			);
